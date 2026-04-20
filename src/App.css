@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.bgimg{
+    background-image: url(../public/WhatsApp\ Image\ 2026-04-13\ at\ 5.32.42\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.sizephoto{
+height: 20rem;
+}
+
+html{
+    scroll-behavior:smooth ;
+}
+
